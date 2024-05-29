@@ -16,7 +16,7 @@
 </p>
   
 <p align="center">
-    <img src="asset/technology.png" style="width:300px;height:auto">
+    <img src="asset/technology.png" style="width:400px;height:auto">
 </p>
 
 <h3 align="center">Come testare</h3>
@@ -44,7 +44,7 @@
     <br><br>
     Aggiungere un documento (già presente in /resources):
     <br>
-    DELETE localhost:8080/api/documents
+    POST localhost:8080/api/documents
     <br>
     Parametro testuale: nome documento da aggiungere (nome.pdf)
 </p>
